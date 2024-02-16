@@ -1,6 +1,4 @@
 # Fourier-Transform-Image-Processing-Mixer
-# Fourier Transform Mixer
-
 Fourier Transform Mixer is a desktop application designed to illustrate the importance of magnitude and phase components in signal processing, particularly focusing on images through Fourier Transform (FT). It emphasizes the contribution of different frequencies to the signal.
 
 ## Features
